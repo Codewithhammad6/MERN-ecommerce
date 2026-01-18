@@ -2,7 +2,7 @@
 
 A modern, full-featured e-commerce website built with React, Tailwind CSS, and Zustand for state management. Includes a complete admin panel, order management, payment integration, and responsive design.
 
-## 🚀 Features
+## 🚀 Features 
 
 ### Customer Features
 - **Product Catalog**: Browse products with filtering and search
